@@ -1,0 +1,120 @@
+# Loading project lab07
+# Compile of adder.v was successful.
+# Compile of alu.v was successful.
+# Compile of dmem.v was successful.
+# Compile of eq_cmp.v was successful.
+# Compile of flopr.v was successful.
+# Compile of imem.v was successful.
+# Compile of lpm_constant0.v was successful.
+# Compile of lpm_constant4.v was successful.
+# Compile of maindec.v was successful.
+# Compile of mips.v was successful.
+# Compile of mux2_5.v was successful.
+# Compile of mux2_32.v was successful.
+# Compile of mux3_32.v was successful.
+# Compile of mux4_32.v was successful.
+# Compile of pipe_ctrl.v was successful.
+# Compile of pr_ex_mem.v was successful.
+# Compile of pr_id_ex.v was successful.
+# Compile of pr_if_id.v was successful.
+# Compile of pr_mem_wb.v was successful.
+# Compile of regfile.v was successful.
+# Compile of signext.v was successful.
+# Compile of sl2_26.v was successful.
+# Compile of sl2_32.v was successful.
+# Compile of sl16_32.v was successful.
+# Compile of top.v was successful.
+# 25 compiles, 0 failed with no errors. 
+vsim work.top
+# vsim work.top 
+# Loading work.top
+# Loading work.mips
+# Loading work.alu
+# Loading work.mux2_32
+# Loading work.adder
+# Loading work.sl2_32
+# Loading work.maindec
+# Loading work.dmem
+# Loading work.mux2_5
+# Loading work.eq_cmp
+# Loading work.pr_ex_mem
+# Loading work.pr_id_ex
+# Loading work.pr_if_id
+# Loading work.imem
+# Loading work.signext
+# Loading work.lpm_constant0
+# Loading work.lpm_constant0_lpm_constant_r09
+# Loading work.lpm_constant4
+# Loading work.lpm_constant4_lpm_constant_v09
+# Loading work.sl2_26
+# Loading work.pr_mem_wb
+# Loading work.flopr
+# Loading work.pipe_ctrl
+# Loading work.regfile
+# Loading work.mux3_32
+# Loading work.sl16_32
+# ** Warning: (vsim-3017) /home/vagtsal/vagtsal_labs/lab07/mips.v(116): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /top/duv/b2v_alu
+# ** Warning: (vsim-3722) /home/vagtsal/vagtsal_labs/lab07/mips.v(116): [TFMPC] - Missing connection for port 'zero'.
+# WARNING: No extended dataflow license exists
+add wave -position insertpoint  \
+sim:/top/duv/b2v_regfile/rf
+add wave -position insertpoint  \
+sim:/top/duv/b2v_dmem/RAM
+run
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 65 of file "data_memfile.dat". (Current address [64], address range [0:63])    : /home/vagtsal/vagtsal_labs/lab07/dmem.v(9)
+#    Time: 0 ps  Iteration: 0  Instance: /top/duv/b2v_dmem
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+restart
+# ** Warning: (vsim-3017) /home/vagtsal/vagtsal_labs/lab07/mips.v(116): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /top/duv/b2v_alu
+# ** Warning: (vsim-3722) /home/vagtsal/vagtsal_labs/lab07/mips.v(116): [TFMPC] - Missing connection for port 'zero'.
+do /home/vagtsal/vagtsal_labs/lab07/wave.do
+run
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 65 of file "data_memfile.dat". (Current address [64], address range [0:63])    : /home/vagtsal/vagtsal_labs/lab07/dmem.v(9)
+#    Time: 0 ps  Iteration: 0  Instance: /top/duv/b2v_dmem
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+restart
+# ** Warning: (vsim-3017) /home/vagtsal/vagtsal_labs/lab07/mips.v(116): [TFMPC] - Too few port connections. Expected 5, found 4.
+#         Region: /top/duv/b2v_alu
+# ** Warning: (vsim-3722) /home/vagtsal/vagtsal_labs/lab07/mips.v(116): [TFMPC] - Missing connection for port 'zero'.
+run
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 65 of file "data_memfile.dat". (Current address [64], address range [0:63])    : /home/vagtsal/vagtsal_labs/lab07/dmem.v(9)
+#    Time: 0 ps  Iteration: 0  Instance: /top/duv/b2v_dmem
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run

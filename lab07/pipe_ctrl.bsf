@@ -1,0 +1,169 @@
+/*
+WARNING: Do NOT edit the input and output ports in this file in a text
+editor if you plan to continue editing the block that represents it in
+the Block Editor! File corruption is VERY likely to occur.
+*/
+/*
+Copyright (C) 1991-2013 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+*/
+(header "symbol" (version "1.2"))
+(symbol
+	(rect 64 64 352 272)
+	(text "pipe_ctrl" (rect 5 0 46 10)(font "Arial" ))
+	(text "inst" (rect 112 160 129 170)(font "Arial" ))
+	(port
+		(pt 0 32)
+		(input)
+		(text "rs[4..0]" (rect 0 0 33 10)(font "Arial" ))
+		(text "rs[4..0]" (rect 21 27 54 37)(font "Arial" ))
+		(line (pt 0 32)(pt 16 32)(line_width 3))
+	)
+	(port
+		(pt 0 48)
+		(input)
+		(text "rt[4..0]" (rect 0 0 30 10)(font "Arial" ))
+		(text "rt[4..0]" (rect 21 43 51 53)(font "Arial" ))
+		(line (pt 0 48)(pt 16 48)(line_width 3))
+	)
+	(port
+		(pt 0 112)
+		(input)
+		(text "isStore" (rect 0 0 34 10)(font "Arial" ))
+		(text "isStore" (rect 21 107 55 117)(font "Arial" ))
+		(line (pt 0 112)(pt 16 112))
+	)
+	(port
+		(pt 0 128)
+		(input)
+		(text "isNop" (rect 0 0 28 10)(font "Arial" ))
+		(text "isNop" (rect 21 123 49 133)(font "Arial" ))
+		(line (pt 0 128)(pt 16 128))
+	)
+	(port
+		(pt 0 144)
+		(input)
+		(text "readsRs" (rect 0 0 41 10)(font "Arial" ))
+		(text "readsRs" (rect 21 139 62 149)(font "Arial" ))
+		(line (pt 0 144)(pt 16 144))
+	)
+	(port
+		(pt 0 160)
+		(input)
+		(text "readsRt" (rect 0 0 38 10)(font "Arial" ))
+		(text "readsRt" (rect 21 155 59 165)(font "Arial" ))
+		(line (pt 0 160)(pt 16 160))
+	)
+	(port
+		(pt 0 80)
+		(input)
+		(text "branch" (rect 0 0 34 10)(font "Arial" ))
+		(text "branch" (rect 21 75 55 85)(font "Arial" ))
+		(line (pt 0 80)(pt 16 80))
+	)
+	(port
+		(pt 0 96)
+		(input)
+		(text "jump" (rect 0 0 24 10)(font "Arial" ))
+		(text "jump" (rect 21 91 45 101)(font "Arial" ))
+		(line (pt 0 96)(pt 16 96))
+	)
+	(port
+		(pt 0 64)
+		(input)
+		(text "brTaken" (rect 0 0 40 10)(font "Arial" ))
+		(text "brTaken" (rect 21 59 61 69)(font "Arial" ))
+		(line (pt 0 64)(pt 16 64))
+	)
+	(port
+		(pt 288 104)
+		(input)
+		(text "ex_rd[4..0]" (rect 56 0 106 10)(font "Arial" ))
+		(text "ex_rd[4..0]" (rect 213 96 263 106)(font "Arial" ))
+		(line (pt 272 104)(pt 288 104)(line_width 3))
+	)
+	(port
+		(pt 288 80)
+		(input)
+		(text "ex_regWrite" (rect 56 0 115 10)(font "Arial" ))
+		(text "ex_regWrite" (rect 204 72 263 82)(font "Arial" ))
+		(line (pt 272 80)(pt 288 80))
+	)
+	(port
+		(pt 288 56)
+		(input)
+		(text "ex_isLoad" (rect 56 0 105 10)(font "Arial" ))
+		(text "ex_isLoad" (rect 214 48 263 58)(font "Arial" ))
+		(line (pt 272 56)(pt 288 56))
+	)
+	(port
+		(pt 288 160)
+		(input)
+		(text "mem_rd[4..0]" (rect 56 0 118 10)(font "Arial" ))
+		(text "mem_rd[4..0]" (rect 201 152 263 162)(font "Arial" ))
+		(line (pt 272 160)(pt 288 160)(line_width 3))
+	)
+	(port
+		(pt 288 136)
+		(input)
+		(text "mem_regWrite" (rect 56 0 126 10)(font "Arial" ))
+		(text "mem_regWrite" (rect 193 128 263 138)(font "Arial" ))
+		(line (pt 272 136)(pt 288 136))
+	)
+	(port
+		(pt 136 0)
+		(output)
+		(text "flush" (rect 0 0 23 10)(font "Arial" ))
+		(text "flush" (rect 128 23 138 46)(font "Arial" )(vertical))
+		(line (pt 136 0)(pt 136 16))
+	)
+	(port
+		(pt 264 0)
+		(output)
+		(text "flowChange" (rect 0 0 57 10)(font "Arial" ))
+		(text "flowChange" (rect 256 23 266 80)(font "Arial" )(vertical))
+		(line (pt 264 0)(pt 264 16))
+	)
+	(port
+		(pt 160 0)
+		(output)
+		(text "stall" (rect 0 0 20 10)(font "Arial" ))
+		(text "stall" (rect 152 23 162 43)(font "Arial" )(vertical))
+		(line (pt 160 0)(pt 160 16))
+	)
+	(port
+		(pt 72 0)
+		(output)
+		(text "id_forwardA[1..0]" (rect 0 0 80 10)(font "Arial" ))
+		(text "id_forwardA[1..0]" (rect 64 23 74 103)(font "Arial" )(vertical))
+		(line (pt 72 0)(pt 72 16)(line_width 3))
+	)
+	(port
+		(pt 88 0)
+		(output)
+		(text "id_forwardB[1..0]" (rect 0 0 80 10)(font "Arial" ))
+		(text "id_forwardB[1..0]" (rect 80 23 90 103)(font "Arial" )(vertical))
+		(line (pt 88 0)(pt 88 16)(line_width 3))
+	)
+	(port
+		(pt 104 0)
+		(output)
+		(text "id_ldstBypass" (rect 0 0 67 10)(font "Arial" ))
+		(text "id_ldstBypass" (rect 96 23 106 90)(font "Arial" )(vertical))
+		(line (pt 104 0)(pt 104 16))
+	)
+	(drawing
+		(rectangle (rect 16 16 272 192))
+	)
+)

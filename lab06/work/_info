@@ -1,0 +1,366 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/vagtsal/Desktop/Link to bin
+vadder
+Z1 !s100 jY0>PI35GDUhI^g`2HP2h0
+Z2 Ie?e@TG17DU?zCY`8acZ<W3
+Z3 VR4:XbIkd<X908neF9?e9K1
+Z4 d/home/vagtsal/vagtsal_labs/lab06
+Z5 w1459539155
+Z6 8/home/vagtsal/vagtsal_labs/lab06/adder.v
+Z7 F/home/vagtsal/vagtsal_labs/lab06/adder.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|/home/vagtsal/vagtsal_labs/lab06/adder.v|
+Z10 o-work work -O0
+Z11 !s108 1459783382.355571
+Z12 !s107 /home/vagtsal/vagtsal_labs/lab06/adder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+valu
+Z13 !s100 kL0H:T?HzPFgYDjFY2n0?0
+Z14 IzL9NfQ83RjJU3]ZOE1M2a2
+Z15 VejYX:795jcXa79:=j]]Hk1
+R4
+R5
+Z16 8/home/vagtsal/vagtsal_labs/lab06/alu.v
+Z17 F/home/vagtsal/vagtsal_labs/lab06/alu.v
+L0 1
+R8
+r1
+31
+Z18 !s90 -reportprogress|300|-work|work|/home/vagtsal/vagtsal_labs/lab06/alu.v|
+R10
+Z19 !s108 1459783382.371839
+Z20 !s107 /home/vagtsal/vagtsal_labs/lab06/alu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+valudec
+Z21 !s100 ;d^niXX`GRbRjN1F@lUGB3
+Z22 I;MAh?JKjQNAjn:Ec;YHnF1
+Z23 VV@U_8;`LNAe8eO3WRWMD]1
+R4
+R5
+Z24 8/home/vagtsal/vagtsal_labs/lab06/aludec.v
+Z25 F/home/vagtsal/vagtsal_labs/lab06/aludec.v
+L0 1
+R8
+r1
+31
+Z26 !s90 -reportprogress|300|-work|work|/home/vagtsal/vagtsal_labs/lab06/aludec.v|
+R10
+Z27 !s108 1459783382.390531
+Z28 !s107 /home/vagtsal/vagtsal_labs/lab06/aludec.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdmem
+Z29 !s100 OE?]Bl>e2j;@Mj5d595BH0
+Z30 I_Um7?HnZcH57>l5nWhah02
+Z31 V09OGzlPeaYS`EJSH7=l6?2
+R4
+R5
+Z32 8/home/vagtsal/vagtsal_labs/lab06/dmem.v
+Z33 F/home/vagtsal/vagtsal_labs/lab06/dmem.v
+L0 1
+R8
+r1
+31
+Z34 !s90 -reportprogress|300|-work|work|/home/vagtsal/vagtsal_labs/lab06/dmem.v|
+R10
+Z35 !s108 1459783382.406676
+Z36 !s107 /home/vagtsal/vagtsal_labs/lab06/dmem.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vflopr
+Z37 !s100 k5ZQF`11?OhW[X:?6f7A>3
+Z38 Inc64`8jYj<kacn]dSb`Te2
+Z39 VKmL5bih9hO3eDC9W3ak]80
+R4
+R5
+Z40 8/home/vagtsal/vagtsal_labs/lab06/flopr.v
+Z41 F/home/vagtsal/vagtsal_labs/lab06/flopr.v
+L0 1
+R8
+r1
+31
+Z42 !s90 -reportprogress|300|-work|work|/home/vagtsal/vagtsal_labs/lab06/flopr.v|
+R10
+Z43 !s108 1459783382.422859
+Z44 !s107 /home/vagtsal/vagtsal_labs/lab06/flopr.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vimem
+Z45 !s100 nTdOiG_23U9dCm[35F5PB0
+Z46 IFdcCJ>j[Q?]O<e=5RoVAS3
+Z47 VMWGIHmGT5PSCn6JZe;^i[0
+R4
+R5
+Z48 8/home/vagtsal/vagtsal_labs/lab06/imem.v
+Z49 F/home/vagtsal/vagtsal_labs/lab06/imem.v
+L0 1
+R8
+r1
+31
+Z50 !s90 -reportprogress|300|-work|work|/home/vagtsal/vagtsal_labs/lab06/imem.v|
+R10
+Z51 !s108 1459783382.439608
+Z52 !s107 /home/vagtsal/vagtsal_labs/lab06/imem.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vlpm_constant4
+Z53 !s100 H8cFZ;4YPm]YEz^UFCP[d1
+Z54 IUkdPN?`d4MzIZZgTO1Qm;3
+Z55 Ve;LLYGBm;cF=RG8g=WlRX2
+R4
+R5
+Z56 8/home/vagtsal/vagtsal_labs/lab06/lpm_constant4.v
+Z57 F/home/vagtsal/vagtsal_labs/lab06/lpm_constant4.v
+L0 61
+R8
+r1
+31
+Z58 !s108 1459783382.457394
+Z59 !s107 /home/vagtsal/vagtsal_labs/lab06/lpm_constant4.v|
+Z60 !s90 -reportprogress|300|-work|work|/home/vagtsal/vagtsal_labs/lab06/lpm_constant4.v|
+R10
+!i10b 1
+!s85 0
+!s101 -O0
+vlpm_constant4_lpm_constant_v09
+Z61 !s100 8`FHCPMZ[V3DDDS5>hc@K3
+Z62 I43G89R8inI>MK6dHT9>mb0
+Z63 V@:gaZF53P04XCBid:GbHo2
+R4
+R5
+R56
+R57
+L0 46
+R8
+r1
+31
+R58
+R59
+R60
+R10
+!i10b 1
+!s85 0
+!s101 -O0
+vmaindec
+Z64 !s100 Id]3POMXVzI7ELij2NAUj1
+Z65 IWM>h3fW7gofGW03^A8baM3
+Z66 VVIY^Ei^amMHL3LF;l`W=01
+R4
+R5
+Z67 8/home/vagtsal/vagtsal_labs/lab06/maindec.v
+Z68 F/home/vagtsal/vagtsal_labs/lab06/maindec.v
+L0 1
+R8
+r1
+31
+Z69 !s90 -reportprogress|300|-work|work|/home/vagtsal/vagtsal_labs/lab06/maindec.v|
+R10
+Z70 !s108 1459783382.473884
+Z71 !s107 /home/vagtsal/vagtsal_labs/lab06/maindec.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmips
+Z72 !s100 KBoL=O36R2J80d51NBLAM0
+Z73 IJaCV``o23c>V8@g182eln0
+Z74 V:QCXfneMX];`lJjeh<oD91
+R4
+R5
+Z75 8/home/vagtsal/vagtsal_labs/lab06/mips.v
+Z76 F/home/vagtsal/vagtsal_labs/lab06/mips.v
+L0 19
+R8
+r1
+31
+Z77 !s90 -reportprogress|300|-work|work|/home/vagtsal/vagtsal_labs/lab06/mips.v|
+R10
+Z78 !s108 1459783382.490881
+Z79 !s107 /home/vagtsal/vagtsal_labs/lab06/mips.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2_32
+Z80 !s100 ?]DTQOo?XD;cEjU@f;RU]1
+Z81 I]:^XhADoMNdAHTYM4RmGz2
+Z82 V6MXVQQDKmMT5C6eJ2Z0M00
+R4
+R5
+Z83 8/home/vagtsal/vagtsal_labs/lab06/mux2_32.v
+Z84 F/home/vagtsal/vagtsal_labs/lab06/mux2_32.v
+L0 1
+R8
+r1
+31
+Z85 !s90 -reportprogress|300|-work|work|/home/vagtsal/vagtsal_labs/lab06/mux2_32.v|
+R10
+Z86 !s108 1459783382.525485
+Z87 !s107 /home/vagtsal/vagtsal_labs/lab06/mux2_32.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2_5
+Z88 !s100 ?OifOEDiAESC8RlDEZL]R0
+Z89 IfSOQH9WIL?dYBCdi8HiQ;1
+Z90 VgXH6L6X;eZ>j0DPVbTojc2
+R4
+R5
+Z91 8/home/vagtsal/vagtsal_labs/lab06/mux2_5.v
+Z92 F/home/vagtsal/vagtsal_labs/lab06/mux2_5.v
+L0 1
+R8
+r1
+31
+Z93 !s90 -reportprogress|300|-work|work|/home/vagtsal/vagtsal_labs/lab06/mux2_5.v|
+R10
+Z94 !s108 1459783382.509387
+Z95 !s107 /home/vagtsal/vagtsal_labs/lab06/mux2_5.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux4_32
+Z96 !s100 <O6D:@:i2S`GFHD^hn:Uh3
+Z97 IZT2dBVP1AM7R?oN3WzR0b3
+Z98 V97i:^oeGa[8HcHDBe5;@C3
+R4
+R5
+Z99 8/home/vagtsal/vagtsal_labs/lab06/mux4_32.v
+Z100 F/home/vagtsal/vagtsal_labs/lab06/mux4_32.v
+L0 1
+R8
+r1
+31
+Z101 !s90 -reportprogress|300|-work|work|/home/vagtsal/vagtsal_labs/lab06/mux4_32.v|
+R10
+Z102 !s108 1459783382.541448
+Z103 !s107 /home/vagtsal/vagtsal_labs/lab06/mux4_32.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vregfile
+Z104 !s100 [nZ<REcgTfaRNT=l37[je3
+Z105 IRKaUS>mNm3FTZ;3B?@ZSc0
+Z106 Vl>JD@?ekG29h[?;gM3Z2H1
+R4
+R5
+Z107 8/home/vagtsal/vagtsal_labs/lab06/regfile.v
+Z108 F/home/vagtsal/vagtsal_labs/lab06/regfile.v
+L0 1
+R8
+r1
+31
+Z109 !s90 -reportprogress|300|-work|work|/home/vagtsal/vagtsal_labs/lab06/regfile.v|
+R10
+Z110 !s108 1459783382.558737
+Z111 !s107 /home/vagtsal/vagtsal_labs/lab06/regfile.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsignext
+Z112 !s100 Gg9JSinG4?PN2RmUo<]fH2
+Z113 IBJCB:^UlH2@ZRZ`VRSkQi1
+Z114 VzXjEl4X;;[WhS@=1HjFT41
+R4
+R5
+Z115 8/home/vagtsal/vagtsal_labs/lab06/signext.v
+Z116 F/home/vagtsal/vagtsal_labs/lab06/signext.v
+L0 1
+R8
+r1
+31
+Z117 !s90 -reportprogress|300|-work|work|/home/vagtsal/vagtsal_labs/lab06/signext.v|
+R10
+Z118 !s108 1459783382.577625
+Z119 !s107 /home/vagtsal/vagtsal_labs/lab06/signext.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsl16_32
+Z120 !s100 oj8SDU8FbbdNUXZEo57ea1
+Z121 IoI^>6HF]RcHM_FU:P@MQb2
+Z122 V=UGi[Sj99Pd0aBY=0kBcR3
+R4
+R5
+Z123 8/home/vagtsal/vagtsal_labs/lab06/sl16_32.v
+Z124 F/home/vagtsal/vagtsal_labs/lab06/sl16_32.v
+L0 1
+R8
+r1
+31
+Z125 !s90 -reportprogress|300|-work|work|/home/vagtsal/vagtsal_labs/lab06/sl16_32.v|
+R10
+!i10b 1
+!s85 0
+Z126 !s108 1459783382.624794
+Z127 !s107 /home/vagtsal/vagtsal_labs/lab06/sl16_32.v|
+!s101 -O0
+vsl2_26
+Z128 !s100 IP_FScZ`a4UFZXS2FR7M33
+Z129 Ia<<[1oV@YW2@JWBHiYKz11
+Z130 V91nhBimHQI[Dg>@ZMK5jh3
+R4
+R5
+Z131 8/home/vagtsal/vagtsal_labs/lab06/sl2_26.v
+Z132 F/home/vagtsal/vagtsal_labs/lab06/sl2_26.v
+L0 1
+R8
+r1
+31
+Z133 !s90 -reportprogress|300|-work|work|/home/vagtsal/vagtsal_labs/lab06/sl2_26.v|
+R10
+Z134 !s108 1459783382.593188
+Z135 !s107 /home/vagtsal/vagtsal_labs/lab06/sl2_26.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsl2_32
+Z136 !s100 TV0dd;PdG?d>eXoLYI5RF3
+Z137 I``[hETlNT_U9j^AYh0Q2K2
+Z138 V?UkE;>^8b;2Xdj20G81P_2
+R4
+R5
+Z139 8/home/vagtsal/vagtsal_labs/lab06/sl2_32.v
+Z140 F/home/vagtsal/vagtsal_labs/lab06/sl2_32.v
+L0 1
+R8
+r1
+31
+Z141 !s90 -reportprogress|300|-work|work|/home/vagtsal/vagtsal_labs/lab06/sl2_32.v|
+R10
+Z142 !s108 1459783382.608863
+Z143 !s107 /home/vagtsal/vagtsal_labs/lab06/sl2_32.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtop
+!i10b 1
+Z144 !s100 ln0n688hSdhU054WW1PGc2
+Z145 I;K8gAiNfle1l:RKK73^2n2
+Z146 Ve:gFW1CKLAXc^T:7k2HoD1
+R4
+R5
+Z147 8/home/vagtsal/vagtsal_labs/lab06/top.v
+Z148 F/home/vagtsal/vagtsal_labs/lab06/top.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1459783382.643475
+!s107 /home/vagtsal/vagtsal_labs/lab06/top.v|
+Z149 !s90 -reportprogress|300|-work|work|/home/vagtsal/vagtsal_labs/lab06/top.v|
+!s101 -O0
+R10

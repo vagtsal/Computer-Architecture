@@ -1,0 +1,178 @@
+/home/vagtsal/vagtsal_labs/lab07/sl2_32.v {1 {vlog -work work /home/vagtsal/vagtsal_labs/lab07/sl2_32.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sl2_32
+
+Top level modules:
+	sl2_32
+
+} {} {}} /home/vagtsal/vagtsal_labs/lab07/pr_mem_wb.v {1 {vlog -work work /home/vagtsal/vagtsal_labs/lab07/pr_mem_wb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module pr_mem_wb
+
+Top level modules:
+	pr_mem_wb
+
+} {} {}} /home/vagtsal/vagtsal_labs/lab07/imem.v {1 {vlog -work work /home/vagtsal/vagtsal_labs/lab07/imem.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module imem
+
+Top level modules:
+	imem
+
+} {} {}} /home/vagtsal/vagtsal_labs/lab07/mux2_32.v {1 {vlog -work work /home/vagtsal/vagtsal_labs/lab07/mux2_32.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux2_32
+
+Top level modules:
+	mux2_32
+
+} {} {}} /home/vagtsal/vagtsal_labs/lab07/maindec.v {1 {vlog -work work /home/vagtsal/vagtsal_labs/lab07/maindec.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module maindec
+
+Top level modules:
+	maindec
+
+} {} {}} /home/vagtsal/vagtsal_labs/lab07/sl16_32.v {1 {vlog -work work /home/vagtsal/vagtsal_labs/lab07/sl16_32.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sl16_32
+
+Top level modules:
+	sl16_32
+
+} {} {}} /home/vagtsal/vagtsal_labs/lab07/pr_id_ex.v {1 {vlog -work work /home/vagtsal/vagtsal_labs/lab07/pr_id_ex.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module pr_id_ex
+
+Top level modules:
+	pr_id_ex
+
+} {} {}} /home/vagtsal/vagtsal_labs/lab07/mux4_32.v {1 {vlog -work work /home/vagtsal/vagtsal_labs/lab07/mux4_32.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux4_32
+
+Top level modules:
+	mux4_32
+
+} {} {}} /home/vagtsal/vagtsal_labs/lab07/alu.v {1 {vlog -work work /home/vagtsal/vagtsal_labs/lab07/alu.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} /home/vagtsal/vagtsal_labs/lab07/lpm_constant0.v {1 {vlog -work work /home/vagtsal/vagtsal_labs/lab07/lpm_constant0.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module lpm_constant0_lpm_constant_r09
+-- Compiling module lpm_constant0
+
+Top level modules:
+	lpm_constant0
+
+} {} {}} /home/vagtsal/vagtsal_labs/lab07/dmem.v {1 {vlog -work work /home/vagtsal/vagtsal_labs/lab07/dmem.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module dmem
+
+Top level modules:
+	dmem
+
+} {} {}} /home/vagtsal/vagtsal_labs/lab07/flopr.v {1 {vlog -work work /home/vagtsal/vagtsal_labs/lab07/flopr.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module flopr
+
+Top level modules:
+	flopr
+
+} {} {}} /home/vagtsal/vagtsal_labs/lab07/pr_if_id.v {1 {vlog -work work /home/vagtsal/vagtsal_labs/lab07/pr_if_id.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module pr_if_id
+
+Top level modules:
+	pr_if_id
+
+} {} {}} /home/vagtsal/vagtsal_labs/lab07/pr_ex_mem.v {1 {vlog -work work /home/vagtsal/vagtsal_labs/lab07/pr_ex_mem.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module pr_ex_mem
+
+Top level modules:
+	pr_ex_mem
+
+} {} {}} /home/vagtsal/vagtsal_labs/lab07/eq_cmp.v {1 {vlog -work work /home/vagtsal/vagtsal_labs/lab07/eq_cmp.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module eq_cmp
+
+Top level modules:
+	eq_cmp
+
+} {} {}} /home/vagtsal/vagtsal_labs/lab07/lpm_constant4.v {1 {vlog -work work /home/vagtsal/vagtsal_labs/lab07/lpm_constant4.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module lpm_constant4_lpm_constant_v09
+-- Compiling module lpm_constant4
+
+Top level modules:
+	lpm_constant4
+
+} {} {}} /home/vagtsal/vagtsal_labs/lab07/regfile.v {1 {vlog -work work /home/vagtsal/vagtsal_labs/lab07/regfile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} /home/vagtsal/vagtsal_labs/lab07/sl2_26.v {1 {vlog -work work /home/vagtsal/vagtsal_labs/lab07/sl2_26.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sl2_26
+
+Top level modules:
+	sl2_26
+
+} {} {}} /home/vagtsal/vagtsal_labs/lab07/adder.v {1 {vlog -work work /home/vagtsal/vagtsal_labs/lab07/adder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} /home/vagtsal/vagtsal_labs/lab07/mux2_5.v {1 {vlog -work work /home/vagtsal/vagtsal_labs/lab07/mux2_5.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux2_5
+
+Top level modules:
+	mux2_5
+
+} {} {}} /home/vagtsal/vagtsal_labs/lab07/mux3_32.v {1 {vlog -work work /home/vagtsal/vagtsal_labs/lab07/mux3_32.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux3_32
+
+Top level modules:
+	mux3_32
+
+} {} {}} /home/vagtsal/vagtsal_labs/lab07/mips.v {1 {vlog -work work /home/vagtsal/vagtsal_labs/lab07/mips.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mips
+
+Top level modules:
+	mips
+
+} {} {}} /home/vagtsal/vagtsal_labs/lab07/pipe_ctrl.v {1 {vlog -work work /home/vagtsal/vagtsal_labs/lab07/pipe_ctrl.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module pipe_ctrl
+
+Top level modules:
+	pipe_ctrl
+
+} {} {}} /home/vagtsal/vagtsal_labs/lab07/signext.v {1 {vlog -work work /home/vagtsal/vagtsal_labs/lab07/signext.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module signext
+
+Top level modules:
+	signext
+
+} {} {}} /home/vagtsal/vagtsal_labs/lab07/top.v {1 {vlog -work work /home/vagtsal/vagtsal_labs/lab07/top.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}}
