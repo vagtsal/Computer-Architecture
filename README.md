@@ -1,3 +1,3 @@
 ### "Computer Architecture" Lab Exercises
 
-(*.pdf: lab instructions)
+(__*.pdf__: lab instructions)
